@@ -175,7 +175,6 @@ int main() {
         case 'q':
         case 'Q':
             std::cout << "Goodbye" << std::endl;
-            exit(0);
         break;
         
         default:
